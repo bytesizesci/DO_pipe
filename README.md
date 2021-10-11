@@ -118,7 +118,7 @@ To run the diagnostic, your personal R library will need the following packages 
 - install.packages(“fst”)
 - install.packages(“qtl2”)
 - install.packages(“dplyr”)
-- install.packages(“pryr”)
+- install.packages(“plyr”)
 - install.packages(“tibble”) 
 - install.packages(“ggpubr”)
 - install.packages(“ggplot2”)
