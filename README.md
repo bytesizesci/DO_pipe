@@ -197,7 +197,7 @@ Array jobs create many output files, permUtil sticks them together.
 
 3. From Interactive R
 
-> source("theDirector")
+> source("theDirector.R")
 
 Note the estimated time to completion. 
 
